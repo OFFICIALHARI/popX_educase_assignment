@@ -13,8 +13,8 @@ PopX is a modern React-based web application that provides a simple and clean us
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/popx.git
-cd popx
+git clone https://github.com/OFFICIALHARI/popX_educase_assignment.git
+cd popX_educase_assignment
 npm install
 ````
 
@@ -48,7 +48,7 @@ npm start
 
 ## 📷 Preview
 
-https://popx-demoapp.netlify.app/
+https://popx-educase-harikrishnan.vercel.app/
 
 ## 📄 License
 
